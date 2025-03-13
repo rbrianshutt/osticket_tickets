@@ -22,7 +22,11 @@ Click Open a New Ticket  <br/>
 As an end-user karen, create the following ticket: "entire mobile/online banking system is down" <br/>
 "Employees are reporting they are no longer able to access the banking portal.  Users cannot log in."
 
- ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.1%20create%20ticket.PNG)
+![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.1%20create%20ticket.PNG)
+<br />
+
+Ticket created
+
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.2ticket%20created.PNG)
 <br />
 
