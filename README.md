@@ -51,6 +51,7 @@ Set Properties to the ticket<br/>
 - <b>Select Severity A (1 hour, 24/7)</b>
 - <b>Online Banking Department</b>
 
+Enter any comments and/or additional information <br/>
 Click Update <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.6update%20sla.PNG)
