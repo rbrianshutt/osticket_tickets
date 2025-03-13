@@ -50,7 +50,7 @@ Set Properties to the ticket<br/>
 - <b>Select Severity A (1 hour, 24/7)</b>
 - <b>Online Banking Department</b>
 
-"Wide impact, customers unable to use online banking" <br/>
+"Wide impact. Customers unable to use online banking." <br/>
 Click Update <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.6update%20sla.PNG)
@@ -69,6 +69,7 @@ View the log of documentation <br/>
 <br />
 
 Assign to the Online Banking team  <br/>
+"Customers not able to access onine banking portal.  Assigning to online banking team" <br/>
 Click Assign<br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.9assign%20to%20a%20team.PNG)
@@ -77,7 +78,6 @@ Click Assign<br/>
 <h2>Assign a new ticket</h2>
 
 As an end-user karen, create the following ticket: "accounting department needs adobe upgrade, broken" <br/>
-Enter any comments and/or additional information <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.1create%20ticket.PNG)
 <br />
@@ -97,6 +97,7 @@ Set Properties to the ticket <br/>
 - <b>Severity C (4 hours, 24/7)</b> 
 - <b>Support</b>
 
+"Only 2 people cannot use Adobe.Low impact"
 Click Update <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.3update%20sla.PNG)
