@@ -125,6 +125,7 @@ Click Resolved <br/>
 <br />
 
 Set status to Resolved  <br/>
+"Restart fixed issue for both users."
 Click Close  <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.7close%20ticket.PNG)
@@ -153,6 +154,8 @@ Set Properties to the ticket  <br/>
 
 - <b>Severity B (4 hours, 24/7)</b> 
 - <b>Support</b>
+
+"May reclassify after getting more info"
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.4sla.PNG)
 <br />
