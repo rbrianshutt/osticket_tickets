@@ -25,7 +25,7 @@ As an end-user, create the following ticket: "entire mobile/online banking syste
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.2ticket%20created.PNG)
 <br />
 
-Sign in as john  <br/>
+Sign in as john in Admin/Analyst Login Page  <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.3john%20login.PNG)
 <br/>
