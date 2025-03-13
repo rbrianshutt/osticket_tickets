@@ -75,7 +75,7 @@ Click Assign<br/>
 
 <h2>Assign a new ticket</h2>
 
-As an end-user, create the following ticket: "accounting department needs adobe upgrade, broken" <br/>
+As an end-user karen, create the following ticket: "accounting department needs adobe upgrade, broken" <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.1create%20ticket.PNG)
 <br />
@@ -129,7 +129,7 @@ Click Close  <br/>
 
 <h2>Assign a new ticket</h2>
 
-As an end-user, create the following ticket: "CFO’s laptop will no longer turn on" <br/>
+As an end-user karen, create the following ticket: "CFO’s laptop will no longer turn on" <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.1create%20ticket.PNG)
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/15.2view%20ticket.PNG)
