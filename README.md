@@ -1,6 +1,6 @@
-<h2>Create an Resolve Tickets</h2>
+<h2>Create and Resolve Tickets</h2>
 
-<h3>Login Pages</h3>
+<h3>Login Pages (one for Help Desk and one for End User)</h3>
 
 Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php  <br/>
 
@@ -14,7 +14,7 @@ End Users osTicket URL: http://localhost/osTicket <br/>
 
 <h2>Assign a new ticket</h2>
 
-Click Open a New Ticket  <br/>
+Click Open a New Ticket as user karen <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.1a%20open%20ticket.PNG)
 <br />
