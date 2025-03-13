@@ -20,7 +20,7 @@ Click Open a New Ticket  <br/>
 <br />
 
 As an end-user karen, create the following ticket: "entire mobile/online banking system is down" <br/>
-Enter any comments and/or additional information <br/>
+"Wide impact, customers unable to use online banking"
  
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.1%20create%20ticket.PNG)
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.2ticket%20created.PNG)
