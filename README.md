@@ -97,7 +97,7 @@ Set Properties to the ticket <br/>
 - <b>Severity C (4 hours, 24/7)</b> 
 - <b>Support</b>
 
-"Only 2 people cannot use Adobe.Low impact"
+"Only 2 people cannot use Adobe.Low impact" <br/>
 Click Update <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/14.3update%20sla.PNG)
