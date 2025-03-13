@@ -20,9 +20,8 @@ Click Open a New Ticket  <br/>
 <br />
 
 As an end-user karen, create the following ticket: "entire mobile/online banking system is down" <br/>
-"Wide impact, customers unable to use online banking"
- 
-![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.1%20create%20ticket.PNG)
+
+ ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.1%20create%20ticket.PNG)
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.2ticket%20created.PNG)
 <br />
 
@@ -51,7 +50,7 @@ Set Properties to the ticket<br/>
 - <b>Select Severity A (1 hour, 24/7)</b>
 - <b>Online Banking Department</b>
 
-Enter any comments and/or additional information <br/>
+"Wide impact, customers unable to use online banking" <br/>
 Click Update <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.6update%20sla.PNG)
