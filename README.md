@@ -2,7 +2,7 @@
 
 <h3>Login Pages (one for Help Desk and one for End User)</h3>
 
-Admin/Analyst Login Page: http://localhost/osTicket/scp/login.php  <br/>
+Admin/Analyst Login Page (Help Desk Agent): http://localhost/osTicket/scp/login.php  <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/3%20osTicket%20login.PNG)
 <br />
