@@ -25,7 +25,7 @@ As an end-user karen, create the following ticket: "entire mobile/online banking
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.2ticket%20created.PNG)
 <br />
 
-Sign in as john in Admin/Analyst Login Page  <br/>
+As a Help Desk Agent (john) sign in to Admin/Analyst Login Page  <br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.3john%20login.PNG)
 <br/>
@@ -35,7 +35,7 @@ View the current tickets <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.4%20tickets.PNG)
 <br/>
 
-As a Help Desk Agent (john), observe the ticket’s properties <br/>
+Observe the ticket’s properties <br/>
 
 - <b>Priority</b> 
 - <b>Department</b>
@@ -67,7 +67,7 @@ View the log of documentation <br/>
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.8view%20log%20of%20documentation.PNG)
 <br />
 
-Assign to the team Online Banking <br/>
+Assign to the Online Banking team  <br/>
 Click Assign<br/>
 
 ![](https://github.com/rbrianshutt/osticket/blob/main/osTicket/13.9assign%20to%20a%20team.PNG)
